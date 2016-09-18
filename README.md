@@ -21,3 +21,17 @@ Then run the program like this :
 Currently supported instructions : 
 
     mov
+    
+    int
+
+An example : 
+
+    mov eax,5
+    mov ebx,450
+    int 80
+    
+The result : 
+
+    450
+    
+This would be 
