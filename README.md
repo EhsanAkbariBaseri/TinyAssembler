@@ -16,3 +16,8 @@ This configures a MakeFile. After that, run this :
 Then run the program like this : 
 
     ./Assembler <input_asm_file>
+
+
+Currently supported instructions : 
+
+    mov
