@@ -34,4 +34,7 @@ The result :
 
     450
     
-This would be 
+Also comments start with '#' : 
+
+    #This line is a comment
+    mov eax,   50o
