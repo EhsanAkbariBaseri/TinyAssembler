@@ -28,7 +28,7 @@ An example :
 
     mov eax,5
     mov ebx,450
-    int 80
+    int 80h 
     
 The result : 
 
